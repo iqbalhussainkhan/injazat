@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/iqbalhussainkhan/injazat/static/css/main.b100e6da.chunk.css",
-    "main.js": "/iqbalhussainkhan/injazat/static/js/main.46e736f5.chunk.js",
-    "main.js.map": "/iqbalhussainkhan/injazat/static/js/main.46e736f5.chunk.js.map",
-    "runtime-main.js": "/iqbalhussainkhan/injazat/static/js/runtime-main.952e0ec1.js",
-    "runtime-main.js.map": "/iqbalhussainkhan/injazat/static/js/runtime-main.952e0ec1.js.map",
-    "static/js/2.e28cf578.chunk.js": "/iqbalhussainkhan/injazat/static/js/2.e28cf578.chunk.js",
-    "static/js/2.e28cf578.chunk.js.map": "/iqbalhussainkhan/injazat/static/js/2.e28cf578.chunk.js.map",
-    "index.html": "/iqbalhussainkhan/injazat/index.html",
-    "precache-manifest.b426ed5a3a616d341bcd9fc9e44d83b6.js": "/iqbalhussainkhan/injazat/precache-manifest.b426ed5a3a616d341bcd9fc9e44d83b6.js",
-    "service-worker.js": "/iqbalhussainkhan/injazat/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/iqbalhussainkhan/injazat/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/iqbalhussainkhan/injazat/static/media/logo.25bf045c.svg"
+    "main.css": "/injazat/static/css/main.b100e6da.chunk.css",
+    "main.js": "/injazat/static/js/main.3641a083.chunk.js",
+    "main.js.map": "/injazat/static/js/main.3641a083.chunk.js.map",
+    "runtime-main.js": "/injazat/static/js/runtime-main.f711b72d.js",
+    "runtime-main.js.map": "/injazat/static/js/runtime-main.f711b72d.js.map",
+    "static/js/2.e28cf578.chunk.js": "/injazat/static/js/2.e28cf578.chunk.js",
+    "static/js/2.e28cf578.chunk.js.map": "/injazat/static/js/2.e28cf578.chunk.js.map",
+    "index.html": "/injazat/index.html",
+    "precache-manifest.5abbe6526fd193338c2a8b7326fdfe9c.js": "/injazat/precache-manifest.5abbe6526fd193338c2a8b7326fdfe9c.js",
+    "service-worker.js": "/injazat/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/injazat/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/injazat/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.952e0ec1.js",
+    "static/js/runtime-main.f711b72d.js",
     "static/js/2.e28cf578.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.46e736f5.chunk.js"
+    "static/js/main.3641a083.chunk.js"
   ]
 }
