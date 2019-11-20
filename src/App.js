@@ -72,7 +72,7 @@ class App extends React.Component {
               </div>
               <span>{this.state.addressError}</span>
 
-              <div className="ui animated fade button" tabIndex="0"  style={{width:'100%',marginTop:'20px',backgroundColor:'#c1e490',color:'white'}} onClick={this.submitForm}>
+              <div className="ui animated fade button" tabIndex="0"  style={{width:'100%',marginTop:'20px',backgroundColor:'#aade62',color:'white'}} onClick={this.submitForm}>
                 <div className="visible content">Make Signature</div>
                 <div className="hidden content">
                   Let's Go!
