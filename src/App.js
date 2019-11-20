@@ -98,7 +98,8 @@ class App extends React.Component {
               </tr>
               <tr>
                 <td colSpan="4">
-                  <img src="https://i.postimg.cc/4dnvtT5k/lattest-injazat-03.gif" width="224" height="66" alt="" /></td>
+                  <h2 style={{marginLeft:'20px'}}>{this.state.name}</h2>
+                  </td>
                 <td colSpan="3">
                   <img src="https://i.postimg.cc/mgNSWjDq/lattest-injazat-04.gif" width="808" height="66" alt="" /></td>
                 <td>
@@ -114,7 +115,8 @@ class App extends React.Component {
                 <td>
                   <img src="https://i.postimg.cc/jjx4xfnj/lattest-injazat-06.gif" width="66" height="43" alt="" /></td>
                 <td colSpan="6">
-                  <img src="https://i.postimg.cc/9QjBkKWZ/lattest-injazat-07.gif" width="966" height="43" alt="" /></td>
+                  <h3>{this.state.address}</h3>
+                  </td>
                 <td>
                   <img src="spacer.gif" width="1" height="43" alt="" /></td>
               </tr>
