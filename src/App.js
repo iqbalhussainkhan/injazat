@@ -65,8 +65,6 @@ class App extends React.Component {
                 <input type="text" placeholder="Enter Name" onChange={this.onNameChange} onKeyPress={this.onKeyPress} />
               </div>
               <span>{this.state.nameError}</span>
-
-
               <div className="ui input" style={{width:'100%',marginTop:'20px'}}>
                 <input type="text" name="address" placeholder="Enter Address" onChange={this.onAddressChange} onKeyPress={this.onKeyPress} />
               </div>
