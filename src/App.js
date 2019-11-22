@@ -81,109 +81,87 @@ class App extends React.Component {
         </div>
           );
     }else{
-      console.log('hello')
+
       return(
           <div>
-              <table id="Table_01" width="1612" height="706" border="0" cellPadding="0" cellSpacing="0">
+              <table id="Table_01" width="1611" height="706" border="0" cellPadding="0" cellSpacing="0">
               <tbody>
-              <tr>
-                <td rowSpan="5">
-                  <img src="https://i.postimg.cc/7Pd93bdB/lattest-injazat-01.gif" width="579" height="384" alt="injazat" /></td>
-                <td colSpan="7">
-                  <img src="https://i.postimg.cc/YqF3bMwt/lattest-injazat-02.gif" width="1032" height="26" alt="" /></td>
-                <td>
-                  <img src="spacer.gif" width="1" height="26" alt="" /></td>
-              </tr>
-              <tr>
-                <td colSpan="4">
-                  <h2 style={{marginLeft:'20px'}}>{this.state.name}</h2>
-                  </td>
-                <td colSpan="3">
-                  <img src="https://i.postimg.cc/mgNSWjDq/lattest-injazat-04.gif" width="808" height="66" alt="" /></td>
-                <td>
-                  <img src="spacer.gif" width="1" height="66" alt="" /></td>
-              </tr>
-              <tr>
-                <td colSpan="7">
-                  <img src="https://i.postimg.cc/jjMQLjy4/lattest-injazat-05.gif" width="1032" height="177" alt="" /></td>
-                <td>
-                  <img src="spacer.gif" width="1" height="177" alt="" /></td>
-              </tr>
-              <tr>
-                <td>
-                  <img src="https://i.postimg.cc/jjx4xfnj/lattest-injazat-06.gif" width="66" height="43" alt="" /></td>
-                <td colSpan="6">
-                  <h3>{this.state.address}</h3>
-                  </td>
-                <td>
-                  <img src="spacer.gif" width="1" height="43" alt="" /></td>
-              </tr>
-              <tr>
-                <td colSpan="7" rowSpan="2">
-                  <img src="https://i.postimg.cc/gcXq2mj3/lattest-injazat-08.gif" width="1032" height="122" alt="" /></td>
-                <td>
-                  <img src="spacer.gif" width="1" height="72" alt="" /></td>
-              </tr>
-              <tr>
-                <td rowSpan="2">
-                  <img src="https://i.postimg.cc/6qvdjLgM/lattest-injazat-09.gif" width="579" height="192" alt="" /></td>
-                <td>
-                  <img src="spacer.gif" width="1" height="50" alt="" /></td>
-              </tr>
-              <tr>
-                <td colSpan="7">
-                  <img src="https://i.postimg.cc/y6MhJt3t/lattest-injazat-10.gif" width="1032" height="142" alt="" /></td>
-                <td>
-                  <img src="spacer.gif" width="1" height="142" alt="" /></td>
-              </tr>
-              <tr>
-                <td colSpan="8">
-                  <img src="https://i.postimg.cc/VNZnzVc7/lattest-injazat-11.png" width="1611" height="59" alt="" /></td>
-                <td>
-                  <img src="spacer.gif" width="1" height="59" alt="" /></td>
-              </tr>
-              <tr>
-                <td colSpan="3" rowSpan="2">
-                  <img src="https://i.postimg.cc/15DGDBpt/lattest-injazat-12.gif" width="683" height="70" alt="" /></td>
-                <td>
-                  <img src="https://i.postimg.cc/GmQv5pgn/lattest-injazat-13.gif" width="76" height="57" alt="" /></td>
-                <td colSpan="2">
-                  <img src="https://i.postimg.cc/g023FP1X/lattest-injazat-14.gif" width="57" height="57" alt="" /></td>
-                <td>
-                  <img src="https://i.postimg.cc/NjY1DX4x/lattest-injazat-15.gif" width="62" height="57" alt="" /></td>
-                <td rowSpan="2">
-                  <img src="https://i.postimg.cc/tTL6xnJW/lattest-injazat-16.gif" width="733" height="70" alt="" /> </td>
-                <td>
-                  <img src="spacer.gif" width="1" height="57" alt="" /></td>
-              </tr>
-              <tr>
-                <td colSpan="4">
-                  <img src="https://i.postimg.cc/nzs7rGFn/lattest-injazat-17.gif" width="195" height="13" alt="" /></td>
-                <td>
-                  <img src="spacer.gif" width="1" height="13" alt="" /></td>
-              </tr>
-              <tr>
-                <td>
-                  <img src="spacer.gif" width="579" height="1" alt="" /></td>
-                <td>
-                   <img src="spacer.gif" width="66" height="1" alt="" /></td>
-                <td>
-                   <img src="spacer.gif" width="38" height="1" alt="" /></td>
-                <td>
-                   <img src="spacer.gif" width="76" height="1" alt="" /></td>
-                <td>
-                   <img src="spacer.gif" width="44" height="1" alt="" /></td>
-                <td>
-                   <img src="spacer.gif" width="13" height="1" alt="" /></td>
-                <td>
-                   <img src="spacer.gif" width="62" height="1" alt="" /></td>
-                <td>
-                   <img src="spacer.gif" width="733" height="1" alt="" /></td>
-                <td></td>
+           <tr>
+              <td colSpan="8">
+                <img src="https://i.postimg.cc/66dWkBk8/injazat-psd-01.gif" width="1611" height="26" alt="" /></td>
             </tr>
-            </tbody>
-              </table>
-              </div>
+            <tr>
+              <td rowSpan="6">
+                <img src="https://i.postimg.cc/MKq6xhwd/injazat-psd-02.gif" width="579" height="679" alt="" /></td>
+              <td colSpan="4">
+                <h2 style={{marginLeft:'20px',fontSize:'25px'}}>{this.state.name}</h2>
+                </td>
+              <td colSpan="3">
+                <img src="https://i.postimg.cc/kXsn5fX9/injazat-psd-04.gif" width="808" height="66" alt="" /></td>
+            </tr>
+            <tr>
+              <td colSpan="7">
+                <img src="https://i.postimg.cc/x1d9NMcm/injazat-psd-05.gif" width="1032" height="177" alt="" /></td>
+            </tr>
+            <tr>
+              <td>
+                <img src="https://i.postimg.cc/LscSWWvk/injazat-psd-06.gif" width="66" height="43" alt="" /></td>
+              <td colSpan="6">
+                <h3 style={{fontSize:'21px'}}>{this.state.address}</h3>
+                </td>
+            </tr>
+            <tr>
+              <td colSpan="7">
+                <img src="https://i.postimg.cc/VvRcdkw4/injazat-psd-08.gif" width="1032" height="323" alt="" /></td>
+            </tr>
+            <tr>
+              <td colSpan="2" rowSpan="2">
+                <img src="https://i.postimg.cc/1tDS1KYk/injazat-psd-09.gif" width="104" height="70" alt="" /></td>
+              <td>
+                <a href="https://www.facebook.com/injazatgroup/">
+                  <img src="https://i.postimg.cc/kG9mJt0B/injazat-psd-10.gif" width="76" height="57" alt="" />
+                </a>
+                </td>
+              <td colSpan="2">
+              <a href="https://www.instagram.com/injazat_group/">
+                <img src="https://i.postimg.cc/05dvtcSm/injazat-psd-11.gif" width="57" height="57" alt="" />
+                </a>
+              </td>
+              <td>
+                <a href="https://twitter.com/injazat_group">
+                  <img src="https://i.postimg.cc/HsYgFX0N/injazat-psd-12.gif" width="62" height="57" alt="" />
+                </a>
+              </td>
+              <td rowSpan="2">
+                  <img src="https://i.postimg.cc/Sxjpx4v7/injazat-psd-13.gif" width="733" height="70" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td colSpan="4">
+                <img src="https://i.postimg.cc/VLK8wvDk/injazat-psd-14.gif" width="195" height="13" alt="" /></td>
+            </tr>
+            <tr>
+              <td>
+                <img src="spacer.gif" width="579" height="1" alt="" /></td>
+              <td>
+                <img src="spacer.gif" width="66" height="1" alt="" /></td>
+              <td>
+                <img src="spacer.gif" width="38" height="1" alt="" /></td>
+              <td>
+                <img src="spacer.gif" width="76" height="1" alt="" /></td>
+              <td>
+                <img src="spacer.gif" width="44" height="1" alt="" /></td>
+              <td>
+                <img src="spacer.gif" width="13" height="1" alt="" /></td>
+              <td>
+                <img src="spacer.gif" width="62" height="1" alt="" /></td>
+              <td>
+                <img src="spacer.gif" width="733" height="1" alt="" /></td>
+            </tr>
+  </tbody>
+</table>
+
+      </div>
 
       )
     }
