@@ -58,7 +58,7 @@ class App extends React.Component {
     if(this.state.loginScreen === 'yes'){
       return (
         <div className="App">
-          <div className="ui raised very padded text container segment" style={{position:'absolute',top:'5%',left:'30%'}}>
+          <div className="ui raised text container segment" style={{position:'absolute',top:'-100px',right:0,bottom:0,left:0,margin:'auto',height:'600px'}}>
           <img src="https://i.postimg.cc/Hsy5zzSw/1-01.gif" alt=""/>
             <form >
               <div className="ui input" name="name" style={{width:'100%'}}>
@@ -84,7 +84,7 @@ class App extends React.Component {
 
       return(
           <div>
-              <table id="Table_01" width="1611" height="706" border="0" cellPadding="0" cellSpacing="0">
+              <table id="Table_01" width="1611" height="706" border="0" cellPadding="0" cellSpacing="0" >
               <tbody>
            <tr>
               <td colSpan="8">
