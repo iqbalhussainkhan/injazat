@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/injazat/static/css/main.9da1253f.chunk.css",
-    "main.js": "/injazat/static/js/main.27665e41.chunk.js",
-    "main.js.map": "/injazat/static/js/main.27665e41.chunk.js.map",
+    "main.css": "/injazat/static/css/main.012da605.chunk.css",
+    "main.js": "/injazat/static/js/main.016ed5fb.chunk.js",
+    "main.js.map": "/injazat/static/js/main.016ed5fb.chunk.js.map",
     "runtime-main.js": "/injazat/static/js/runtime-main.f711b72d.js",
     "runtime-main.js.map": "/injazat/static/js/runtime-main.f711b72d.js.map",
     "static/js/2.31c04a8f.chunk.js": "/injazat/static/js/2.31c04a8f.chunk.js",
     "static/js/2.31c04a8f.chunk.js.map": "/injazat/static/js/2.31c04a8f.chunk.js.map",
     "index.html": "/injazat/index.html",
-    "precache-manifest.c598b0ab370ecc2f747d14dd7f219ffb.js": "/injazat/precache-manifest.c598b0ab370ecc2f747d14dd7f219ffb.js",
+    "precache-manifest.f8fb89eddbac22af53ac264ad0e74e0e.js": "/injazat/precache-manifest.f8fb89eddbac22af53ac264ad0e74e0e.js",
     "service-worker.js": "/injazat/service-worker.js",
-    "static/css/main.9da1253f.chunk.css.map": "/injazat/static/css/main.9da1253f.chunk.css.map"
+    "static/css/main.012da605.chunk.css.map": "/injazat/static/css/main.012da605.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.f711b72d.js",
     "static/js/2.31c04a8f.chunk.js",
-    "static/css/main.9da1253f.chunk.css",
-    "static/js/main.27665e41.chunk.js"
+    "static/css/main.012da605.chunk.css",
+    "static/js/main.016ed5fb.chunk.js"
   ]
 }
