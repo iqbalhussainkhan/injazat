@@ -107,7 +107,7 @@ class App extends React.Component {
                 <td>
                   <img src="https://i.postimg.cc/LscSWWvk/injazat-psd-06.gif" width="66" height="43" alt="" /></td>
                 <td colSpan="6">
-                  <h3 style={{fontSize:'21px'}}>{this.state.address}</h3>
+                  <h3 style={{fontSize:'20px'}}>{this.state.address}</h3>
                   </td>
               </tr>
               <tr>
