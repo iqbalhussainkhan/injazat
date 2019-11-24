@@ -27,6 +27,13 @@ span{
   float:left;
 }
 
+.grey{
+  color:#B8B8B8;
+}
+.small{
+  font-size: 14px;
+}
+
 
 td {line-height:0; font-size: 0.0em; }
 img { display: block; float: left; padding: 0; align: absbottom; align: texttop; }
