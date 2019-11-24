@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c51a8e8b3b96bdc3ad377b7e8798c5a5",
+    "revision": "5557a508d5c0694cecb0150c5ec5dd2f",
     "url": "/injazat/index.html"
   },
   {
-    "revision": "d8e06cf860f2997ecc7e",
+    "revision": "1b84f05c4326c7a30652",
     "url": "/injazat/static/css/main.012da605.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/injazat/static/js/2.31c04a8f.chunk.js"
   },
   {
-    "revision": "d8e06cf860f2997ecc7e",
-    "url": "/injazat/static/js/main.016ed5fb.chunk.js"
+    "revision": "1b84f05c4326c7a30652",
+    "url": "/injazat/static/js/main.a049c5a7.chunk.js"
   },
   {
     "revision": "52602907127742d18c8b",
